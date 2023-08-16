@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Adwait Paranjape 
 - 👀 I’m interested in coding as well as outdoor sports 
 - 🌱 I’m currently learning Java, DataStructures and honing my skills
-- 📫 How to reach me -> adwaitparanjape@gmail.com
+- 📫 How to reach me -> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/adwait-paranjape-87ba7420a/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Adp6190)
 
 ![ezgif-4-5fc9940767](https://github.com/Adp6190/Adp6190/assets/130762564/71053534-b578-414f-9691-45f282c6423d)
 
