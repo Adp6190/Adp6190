@@ -7,7 +7,7 @@
 
 ![ezgif-4-5fc9940767](https://github.com/Adp6190/Adp6190/assets/130762564/71053534-b578-414f-9691-45f282c6423d)
 
-[![GitHub Streak](https://streak-stats.demolab.com/adp6190=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adp6190)](https://git.io/streak-stats)
 
 <!---
 Adp6190/Adp6190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
