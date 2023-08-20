@@ -16,6 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=adp6190&label=Profile%20Views&color=3&icon=4&pretty=false" />
-</a>
+
