@@ -9,6 +9,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adp6190)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=Adp6190)
+
 <!---
 Adp6190/Adp6190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
